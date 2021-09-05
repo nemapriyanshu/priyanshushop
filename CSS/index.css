@@ -1,0 +1,105 @@
+.bord{border: solid rgb(5, 5, 128) 5px;}
+.pm00{padding: 0px; margin: 0px;}
+.logo{
+    width: 100px;
+    height: 50px;
+}
+
+nav{font-family: 'Grenze', serif; font-size: 20px;}
+
+nav,main{
+    background-color: #f2efef;
+}
+
+
+.carousel-caption {
+      bottom: 100px;
+   
+}
+.slidehr{
+    background-color: aqua;
+    padding: 0px;
+    margin: 5px;
+}
+.sliderfont{
+    font-family: 'Exo 2', sans-serif;
+}
+.hr1{
+    width: 275px;
+}
+.hr2{
+    width: 120px;
+    margin-bottom: 50px;
+}
+.navhov:hover{
+    font-size: 1.5rem;
+    
+}
+/* Done Slider and nav bar  */
+
+
+/* Start header now */
+
+
+.btnsize{ width: 100%; padding: 10px 80px 10px 80px;}
+
+
+.ulnav>li{display: inline; margin: 0px 10px 0px 10px ;}
+
+/* man--------intro */
+
+.manintro{ width: 100%;}
+.manintro1{width: 49%; float: left;}
+.manintro2{width: 49%; float: left;}
+.font-blue{color: blue;}
+.font-purple{color: purple;}
+.circle1{background-color: red; border: red solid 2px;
+margin : 0px 10px 0px 10px ; padding:0px 5px 0px 5px; border-radius: 50%;}
+
+.circle2{background-color: rgb(46, 13, 135); border: rgb(46, 13, 135) solid 2px;
+    margin : 0px 10px 0px 10px ; padding:0px 5px 0px 5px; border-radius: 50%;}
+
+    
+.circle3{background-color: rgb(131, 8, 121); border: rgb(131, 8, 121) solid 2px;
+    margin : 0px 10px 0px 10px ; padding:0px 5px 0px 5px; border-radius: 50%;}
+
+/* ----------------Instagram */
+
+.img12{display: flex; justify-content: space-between;}
+
+.Imgg1
+{
+    border: rgb(189, 189, 189) solid 2px; padding: 0px;
+    box-shadow: -3px -3px 10px rgb(189, 189, 189);
+}
+
+
+footer{
+    background-image: url('../Images/back5.jpg') ;
+    background-size: cover;
+}
+
+.fot1{
+    width: 80%;
+    text-align: center;
+    color: aliceblue;
+}
+.social{
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.so1{background: #4267B2; width: 20%;}
+.so2{background: #ff0090; width: 20%;}
+.so3{background: #1DA1F2; width: 20%;}
+.so4{background: #0f8804; width: 20%;}
+.so5{background: #006AFF; width: 20%;}
+
+.fot2{
+    width: 60%;
+    text-align: center;
+    color: aliceblue;
+}

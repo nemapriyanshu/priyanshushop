@@ -1,0 +1,35 @@
+body{
+    background-image: url('../Images/back6.jpg');
+    background-size: cover;
+}
+
+hr{
+    width: 500px;
+    border-radius: 50px;
+    border: red solid 2px;
+}
+.txtlent{
+    width: 400px;
+    border-radius: 5px;
+    margin: 5px 0px;
+    border: oldlace solid 2px;
+    background: rgba(148, 148, 148, 0.446);
+    color: rgb(255, 253, 208);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.txtlent:focus{
+    outline: none;
+}
+.txtlent::placeholder{padding-left: 5px; font-weight: bold;color: papayawhip; opacity: .6; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+h1{
+    color:oldlace;
+}
+
+.formdis{
+    display: flex;
+    justify-content: space-between;
+}
